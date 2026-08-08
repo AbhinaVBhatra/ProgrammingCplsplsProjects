@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace3" Database="" Version="10000">
+  <Project Name="PRACTICE" Path="ODDEVEN/ODDEVEN.project" Active="No"/>
+  <Project Name="PRIMES" Path="PRIMES/PRIMES.project" Active="No"/>
+  <Project Name="PRACTICE_" Path="PRACTICE_/PRACTICE_.project" Active="No"/>
+  <Project Name="ATMsimulator" Path="ATMsimulator/ATMsimulator.project" Active="No"/>
+  <Project Name="CHALLENGE" Path="CHALLENGE/CHALLENGE.project" Active="No"/>
+  <Project Name="ButterflyPattern" Path="ButterflyPattern/ButterflyPattern.project" Active="No"/>
+  <Project Name="SmartNumberAnalysis" Path="SmartNumberAnalysis/SmartNumberAnalysis.project" Active="No"/>
+  <Project Name="OperationalList" Path="OperationalList/OperationalList.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="PRACTICE" ConfigName="Debug"/>
+      <Project Name="PRIMES" ConfigName="Debug"/>
+      <Project Name="PRACTICE_" ConfigName="Debug"/>
+      <Project Name="ATMsimulator" ConfigName="Debug"/>
+      <Project Name="CHALLENGE" ConfigName="Debug"/>
+      <Project Name="ButterflyPattern" ConfigName="Debug"/>
+      <Project Name="SmartNumberAnalysis" ConfigName="Debug"/>
+      <Project Name="OperationalList" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="PRACTICE" ConfigName="Release"/>
+      <Project Name="PRIMES" ConfigName="Release"/>
+      <Project Name="PRACTICE_" ConfigName="Release"/>
+      <Project Name="ATMsimulator" ConfigName="Release"/>
+      <Project Name="CHALLENGE" ConfigName="Release"/>
+      <Project Name="ButterflyPattern" ConfigName="Release"/>
+      <Project Name="SmartNumberAnalysis" ConfigName="Release"/>
+      <Project Name="OperationalList" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

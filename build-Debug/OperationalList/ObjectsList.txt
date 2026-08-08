@@ -1,0 +1,1 @@
+../build-Debug/OperationalList/main.cpp.o   
