@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Custom / IDE Build Directories (CodeLite)
+build-Debug/
+build-*/
+
+# CodeLite IDE Settings & Local Caches
+.codelite/
+.cache/
+.ctagsd/
+
+# Generated Language Server Configuration (Machine-specific)
+compile_commands.json
+
+# IDE Workspace Files (Optional, but recommended for clean repos)
+*.workspace
