@@ -1,1 +1,0 @@
-../build-Debug/ButterflyPattern/main.cpp.o   

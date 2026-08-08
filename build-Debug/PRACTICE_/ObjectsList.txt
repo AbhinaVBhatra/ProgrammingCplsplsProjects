@@ -1,1 +1,0 @@
-../build-Debug/PRACTICE_/main.cpp.o   

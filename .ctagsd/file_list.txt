@@ -1,8 +1,0 @@
-C:\Users\abhin\Workspaces\Workspace3\OperationalList\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\ButterflyPattern\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\SmartNumberAnalysis\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\ODDEVEN\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\CHALLENGE\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\PRIMES\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\ATMsimulator\main.cpp
-C:\Users\abhin\Workspaces\Workspace3\PRACTICE_\main.cpp
