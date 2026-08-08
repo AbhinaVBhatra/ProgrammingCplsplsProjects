@@ -45,3 +45,10 @@ compile_commands.json
 
 # IDE Workspace Files (Optional, but recommended for clean repos)
 *.workspace
+
+# CodeLite auto-generated Makefiles and Project files
+*.mk
+*.project
+
+# Local Clang / Language Server settings
+.clangd
