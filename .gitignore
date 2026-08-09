@@ -52,3 +52,5 @@ compile_commands.json
 
 # Local Clang / Language Server settings
 .clangd
+
+Makefile
