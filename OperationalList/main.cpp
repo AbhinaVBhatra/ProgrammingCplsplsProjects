@@ -92,7 +92,8 @@ int main(){
             case 'p':
                if(integer_list.size()==0){           /* integer_list.size() returns the number of elements currently in the vector.
                                                          The return type is size_t (an unsigned integer type)  
-                                                       sizeof(v) -> This gives the size of the vector object in memory, not the number of elements. */
+                                                       sizeof(v) -> This gives the size of the vector object in memory, not the number of elements
+                                                                      (which, could certainly be different from each other!). */
                   cout << "[] - The List is Empty." ;
                 }else{
                     cout << "[ " ;
