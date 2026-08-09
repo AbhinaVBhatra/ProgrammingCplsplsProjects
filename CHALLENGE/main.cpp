@@ -231,7 +231,6 @@ int main(){
          }     
   } while(flag==false);  
 
-{
  cout << "hello " << endl; 
 
    int favourite_number {} ;
